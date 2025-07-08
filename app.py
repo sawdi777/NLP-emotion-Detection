@@ -2,6 +2,7 @@ import gradio as gr
 import joblib
 import re
 import nltk
+import os
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
